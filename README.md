@@ -1,2 +1,2 @@
-# cloudflare-control-bot
-Бот для управления cloudflare через телеграмм бота
+# Бот для управления cloudflare через телеграмм бота
+В самом начале данные для работы бота, запуск через python3 main.py перед запуском установить зависимости pip3 install -r requirements.txt
